@@ -1,4 +1,4 @@
-# covid19Dashboard
+# Covid19Dashboard - Backend (api)
 Run Spring-boot using below command 
 mvn spring-boot:run
 
